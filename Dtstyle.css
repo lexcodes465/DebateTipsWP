@@ -11,6 +11,13 @@ header {
   color: white;
   padding: 1rem;
   text-align: center;
+.oval {
+  width: 160px;
+  height: 80px;
+  background: #a84909;
+  border-radius: 50%;
+}
+<div class="oval"></div>
 }
 
 main {
